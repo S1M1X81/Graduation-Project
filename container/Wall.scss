@@ -1,0 +1,28 @@
+.wall{
+    position: relative;
+    .caption{
+        position: absolute;
+        inset: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        h2{
+            font-family: var(--second-family);
+            font-weight: 700;
+            font-size: 60px;
+            text-align: center;
+            color: var(--white-500);
+            line-height: 135%;
+        }
+        p{
+            font-family: var(--font-family);
+            font-weight: 400;
+            font-size: 14px;
+            color: var(--white-500);
+            line-height: 135%;
+            text-align: center;
+        }
+    }
+}

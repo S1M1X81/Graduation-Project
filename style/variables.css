@@ -1,0 +1,19 @@
+:root {
+  --font-family: "Jost", sans-serif;
+  --second-family: "Playfair Display";
+  --third-family: "Poppins", sans-serif;
+}
+
+:root {
+	--dark-500: #0f1015;
+	--primary-500: #3e54eb;
+	--white-500: #fff;
+	--gray-500: #a4a6ac;
+	--primary-primary-50: rgba(62, 84, 235, 0.05);
+	--gray-gray-50: rgba(164, 166, 172, 0.05);
+	--white-white-800: rgba(255, 255, 255, 0.8);
+    --gray-gray-200: rgba(164, 166, 172, 0.2);
+	--neutral-300: #d6d6d6;
+	--neutral-200: #f3f3f3;
+	--neutral-100: #fff;
+}
